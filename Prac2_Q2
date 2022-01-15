@@ -1,0 +1,45 @@
+## 20CE147
+## Rohit Thakkar
+## Tuple Question
+a. Write a Python program to create a tuple with
+
+different data types. b. Write a Python program to create a tuple with
+
+numbers and print one item.
+
+c. Write a Python program to add an item in a
+
+tuple. d. Write a Python program to convert a tuple to a
+
+string.
+
+e. Write a Python program to find the length
+
+tuple.
+
+
+## Codes:
+## Task A
+tuple1 = (100, 200, 300, 400)
+tuple2 = ("Om", "Sutariya")
+print(tuple1)
+print(tuple2)
+
+## Task B
+tuple = (1, 2, 3, 4)
+print(tuple[3])
+
+## Task C
+tuple = (1, 2, 3, 4)
+tuple = tuple + (5, 6)
+print(tuple)
+
+## Task D
+tuple = ('H', 'e', 'l', 'l', 'o')
+result = ''.join(tuple)
+print(result)
+
+## Task E
+tuple = ('H', 'e', 'l', 'l', 'o')
+print("Tuple's length is: ", len(tuple))
+
