@@ -1,3 +1,11 @@
+# MAde By 20CE147 Rohit Thakkar
+
+#AIM: You are given n words. Some words may repeat. 
+#  For each word, output its number of occurrences. 
+#  The output order should correspond with the input order of appearance of the word. 
+#  See the sample input/output for clarification. 
+
+# Repo LinK: https://github.com/Rohit-Thakkar/python_assign_sem4/
 n_ish = int(input())
 counter_dict = {}
 words_list = []
