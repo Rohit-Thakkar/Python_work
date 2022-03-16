@@ -1,5 +1,5 @@
 # 20ce147_prac9
-# LINK https://github.com/Rohit-Thakkar/python_assign_sem4/
+# LINK:https://github.com/Rohit-Thakkar/python_assign_sem4/
 # Aim:Write a Program in Python to implement a Stack Data Structure using Class and Objects, with push, pop, and traversal method.
 class Stack:
     def __init__(self):
